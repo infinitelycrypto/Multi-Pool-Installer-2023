@@ -1,3 +1,6 @@
+## 14/10/2022 - Pulled repo fork to adopt new algo strings and to update, please use this at your own risk, as this is a development in the works. 
+
+
 ## Update regarding this repo and the future of it. As many of you know I have been gone for many months. Things were going great in my life and then tragedy stuck, and no I am not talking about COVID. Im not going to spin a sad story or give any other details other then, depression is a real thing. Anyone you know or yourself may suffer terribly from it. Don't ignore the signs, don't laugh it off, or take their word that they are ok if its a relative or friend because they are not ok. And don't go at it alone if you suffer silently from it. For those that feel the desire this all doantion addresses have been updated. 
 
 ## There are several forks of this repo now that are being maintained by some great people and plenty of help on the discord. Be safe eveyone. - CPB
